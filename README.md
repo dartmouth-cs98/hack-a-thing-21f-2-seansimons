@@ -34,7 +34,9 @@ think that game developing would be an awesome idea for a project, but this Hack
 really got me thinking about what the scope of such a project would be.  I could easily see 
 it feasible to create projects that turn boring situations into simple, game-like scenarios, 
 but would find it difficult to think that creating any game that is even close to industry 
-standards would be impossible to do in this course.
+standards would be impossible to do in this course.  I would not mind doing more game development 
+on my project and could see a project that might tackle a social issue, I was thinking 
+reporting misleading articles, turned into an accessible, being turned into some type of game format.
 
 
 ## Authors
